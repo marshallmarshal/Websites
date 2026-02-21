@@ -2,13 +2,13 @@
 Welcome to my Web Development Portfolio repository.
 This repository showcases websites I have designed and developed for clients, demonstrating my skills in frontend development, backend integration, and database-driven systems.
 
-# Source code is not publicly available due to client and hosting considerations. Screenshots are provided to demonstrate functionality and design.
+**NOTE:** Source code is not publicly available due to client and hosting considerations. Screenshots are provided to demonstrate functionality and design.
 
 # About Me
 
 - I am a Web & App Developer with over 5 years of experience in:
 
--Responsive Web Design
+- Responsive Web Design
 
 - PHP Backend Development
 
