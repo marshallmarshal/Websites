@@ -2,34 +2,35 @@
 Welcome to my Web Development Portfolio repository.
 This repository showcases websites I have designed and developed for clients, demonstrating my skills in frontend development, backend integration, and database-driven systems.
 
-⚠️ Source code is not publicly available due to client and hosting considerations. Screenshots are provided to demonstrate functionality and design.
+# Source code is not publicly available due to client and hosting considerations. Screenshots are provided to demonstrate functionality and design.
 
-👨‍💻 About Me
+# About Me
 
-I am a Web & App Developer with over 5 years of experience in:
+- I am a Web & App Developer with over 5 years of experience in:
 
-Responsive Web Design
+-Responsive Web Design
 
-PHP Backend Development
+- PHP Backend Development
 
-MySQL Database Integration
+- MySQL Database Integration
 
-Web Hosting & Deployment
+- Web Hosting & Deployment
 
-System Integration
+- System Integration
 
 I have developed multiple production websites and database-driven systems for real clients in Malawi.
 
-📂 Projects Included
+# Projects Included
+
 1️⃣ Women Coalition Against Cervical Cancer (WOCACA)
 
 Description:
 Official website developed for Women Coalition Against Cervical Cancer (WOCACA) — a non-governmental organization focused on cervical cancer awareness, prevention, and advocacy.
 
-Purpose:
+# Purpose:
 To provide educational resources, promote awareness campaigns, and share organizational updates with the public.
 
-Technologies Used:
+# Technologies Used:
 
 HTML5
 
@@ -41,19 +42,19 @@ PHP
 
 MySQL
 
-Key Features:
+# Key Features:
 
-Informational pages about cervical cancer awareness
+- Informational pages about cervical cancer awareness
 
-Campaign and outreach program updates
+- Campaign and outreach program updates
 
-Contact and inquiry functionality
+- Contact and inquiry functionality
 
-Structured public health content presentation
+- Structured public health content presentation
 
-Fully responsive design
+- Fully responsive design
 
-My Role:
+# My Role:
 
 Full-stack website development
 
@@ -63,86 +64,86 @@ Hosting configuration and deployment
 
 Technical support and maintenance
 
-📁 [View WOCACA Project](./wocaca)
 
-2️⃣ Holy Mountain Church for All Nations (HOMCFAN)
 
-Description:
+# 2️⃣ Holy Mountain Church for All Nations (HOMCFAN)
+
+# Description:
 Official ministry website developed for Holy Mountain Church for All Nations (HOMCFAN). The platform was designed to provide church information, service schedules, leadership profiles, ministry updates, and contact details.
 
-Purpose:
+# Purpose:
 To strengthen online communication with church members and the wider community.
 
-Technologies Used:
+# Technologies Used:
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-JavaScript
+- JavaScript
 
-PHP
+- PHP
 
-MySQL
+- MySQL
 
-Key Features:
+# Key Features:
 
-Service schedules and ministry information
+- Service schedules and ministry information
 
-Dynamic content sections
+- Dynamic content sections
 
-Contact and inquiry functionality
+- Contact and inquiry functionality
 
-Responsive mobile-friendly design
+- Responsive mobile-friendly design
 
-My Role:
+# My Role:
 
-Full-stack development
+- Full-stack development
 
-UI/UX implementation
+- UI/UX implementation
 
-Backend database integration
+- Backend database integration
 
-Hosting configuration and deployment
+- Hosting configuration and deployment
 
-📁 Folder: /homcfan
 
-3️⃣ M-Techs – Web Development Company Website
 
-Description:
+# 3️⃣ M-Techs – Web Development Company Website
+
+# Description:
 Corporate website developed for M-Techs, my personal web development and technology services brand.
 
-Purpose:
+# Purpose:
 To advertise web development services, showcase completed projects, and establish professional online presence.
 
-Technologies Used:
+# Technologies Used:
 
-HTML5
+- HTML5
 
-CSS3
+- CSS3
 
-JavaScript
+- JavaScript
 
-PHP
+- PHP
 
-Key Features:
+# Key Features:
 
-Service portfolio display
+- Service portfolio display
 
-Project showcase section
+- Project showcase section
 
-Contact and inquiry form
+- Contact and inquiry form
 
-Professional branding layout
+- Professional branding layout
 
-Responsive design
+- Responsive design
 
-My Role:
+# My Role:
 
-Founder & Developer
+- Founder & Developer
 
-Full-stack website design and implementation
+- Full-stack website design and implementation
 
-Hosting setup and domain configuration
+- Hosting setup and domain configuration
 
-📁 Folder: /mtechs
+
